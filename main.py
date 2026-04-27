@@ -15,5 +15,3 @@ def main():
     
     print(f"\nMultiplying the 1D array by 2: {arr * 2}")
 
-if __name__ == "__main__":
-    main()
