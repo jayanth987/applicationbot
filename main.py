@@ -13,7 +13,6 @@ def main():
     print(f"\n2D Array:\n{arr2d}")
     print(f"Shape: {arr2d.shape}")
     
-    # Basic math operations
     print(f"\nMultiplying the 1D array by 2: {arr * 2}")
 
 if __name__ == "__main__":
