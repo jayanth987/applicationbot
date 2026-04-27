@@ -5,7 +5,7 @@
 
     arr = np.array([1, 2, 3, 4, 5])
 
-    print(f"Shape: {arr.shape}")
+
     
     
     arr2d = np.array([[1, 2, 3], [4, 5, 6]])
